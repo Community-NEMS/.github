@@ -2,7 +2,7 @@
   <img src="banner.png" alt="C-NEMS" width="420">
 </div>
 
-### An Open, Community-Built Energy Model
+### The Community National Energy Modeling System (C-NEMS)
 
 C-NEMS is a continuation of [Project BlueSky](https://www.eia.gov/totalenergy/data/bluesky/), an effort to build the next-generation energy-economy modeling framework at the U.S. Energy Information Administration (EIA). When federal project activity paused, a group of former EIA staff and partners came together to carry it forward as a fully open-source project, built by and for the modeling community.
 
