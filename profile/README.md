@@ -12,8 +12,8 @@ Like EIA's National Energy Modeling System ([NEMS](https://www.eia.gov/outlooks/
 
 ### Repositories
 
-- **[cnems-models](https://github.com/Community-NEMS/cnems-models)** — the model code itself
-- **[cnems-inputs](https://github.com/Community-NEMS/cnems-inputs)** — data pipelines that turn raw public data into model-ready inputs
+- **[cnems-models](https://github.com/Community-NEMS/cnems-models)**: Model code and documentation
+- **[cnems-inputs](https://github.com/Community-NEMS/cnems-inputs)**: Data pipelines and documentation that turn raw data into model-ready inputs
 
 ### Get involved
 
