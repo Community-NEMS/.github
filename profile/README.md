@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="C-NEMS" width="420">
+  <img src="cnems_logo.svg" alt="C-NEMS" width="420">
 </div>
 
 ### An Open, Community-Built Energy Model
